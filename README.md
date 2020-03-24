@@ -37,8 +37,8 @@ Installation:
 
 [TeXLive]
   * Use 'tlmgr' command
-        $ tlmgr show tulane-sse           -- to check the package info
-        $ sudo tlmgr update tulane-sse    -- to update the package
+        $ tlmgr show tulane-sse           -- to check the package info   
+        $ sudo tlmgr update tulane-sse    -- to update the package   
   * You can use 'TeX Live Utility' instead of 'tlmgr', if on MacOSX.
 
 [MikTeX]
