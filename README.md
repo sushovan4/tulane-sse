@@ -36,7 +36,7 @@ Installation:
       -  source/latex/tulane-sse/tulane-sse.dtx
 
 [TeXLive]
-  * Use 'tlmgr' command
+  * Use 'tlmgr' command   
         $ tlmgr show tulane-sse           -- to check the package info   
         $ sudo tlmgr update tulane-sse    -- to update the package   
   * You can use 'TeX Live Utility' instead of 'tlmgr', if on MacOSX.
